@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.el_rincon_del_perfume_six.twa",
+        "sha256_cert_fingerprints": ["3E:85:6B:C6:61:73:AD:61:C0:8B:8D:0A:03:FA:EF:78:11:F6:3F:BD:C8:CE:78:D8:62:89:7C:E1:61:FD:3B:A3"]
+      }
+    }]
